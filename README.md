@@ -6,3 +6,4 @@
 
 - 💼 Atualmente, estou trabalhando com apps React;
 - 🚀 React JS, React Native, NodeJS, TypeScript e muito mais.
+- 📚 Apredendo Flutter, Dart e mais umas paradas 😅.
